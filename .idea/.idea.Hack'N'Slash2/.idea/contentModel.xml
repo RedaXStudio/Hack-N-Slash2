@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yoanl\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\yoanl\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\yoanl\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Hack'N'Slash2.-917679949.00" t="ExcludeRecursive" />
+    <e p="D:\Documents\Unity GIT\Hack'N'Slash GIT\Hack'n'Slash Template\Hack'N'Slash2" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CombatSysteme" t="Include">
+          <e p="CombatSystemeData.cs" t="Include" />
+          <e p="Damage.cs" t="Include" />
+          <e p="DamagesResistance.cs" t="Include" />
+          <e p="DamageTakenAs.cs" t="Include" />
+          <e p="DamageTakenModifier.cs" t="Include" />
+          <e p="DeathsRattleModifier" t="Include">
+            <e p="DeathsEffect.cs" t="Include" />
+            <e p="GiveXpOnDeath.cs" t="Include" />
+            <e p="LootOnDeath.cs" t="Include" />
+          </e>
+          <e p="OnKillModifiers" t="Include">
+            <e p="OnKillModifier.cs" t="Include" />
+          </e>
+          <e p="StatsHolder" t="Include">
+            <e p="StatsHolder.cs" t="Include" />
+            <e p="TrueStatsHolder.cs" t="Include" />
+          </e>
+          <e p="Units" t="Include">
+            <e p="AttacksBehState" t="Include">
+              <e p="AttacksBeh_MultiState.cs" t="Include" />
+              <e p="BaseAttack.cs" t="Include" />
+            </e>
+            <e p="Enemies" t="Include">
+              <e p="BaseEnemie.cs" t="Include" />
+              <e p="Enemies.cs" t="Include" />
+            </e>
+            <e p="Units.cs" t="Include" />
+            <e p="UnitsMovements" t="Include">
+              <e p="GoToTargetAndAttack.cs" t="Include" />
+            </e>
+            <e p="UnitsTargeting" t="Include">
+              <e p="TargetClosestPlayer.cs" t="Include" />
+              <e p="UnitTargeting.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Units_Modifiers.cs" t="Include" />
+          <e p="UnitsStates" t="Include">
+            <e p="CrowdControls" t="Include">
+              <e p="CrowdControls.cs" t="Include" />
+              <e p="Hard_CC" t="Include">
+                <e p="CC_RootState.cs" t="Include" />
+                <e p="Hard_CrowdControls.cs" t="Include" />
+                <e p="StunnedState.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="WhenHitModifiers" t="Include">
+            <e p="WhenHitModifier.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Gears" t="Include">
+          <e p="Area" t="Include">
+            <e p="Area.cs" t="Include" />
+          </e>
+          <e p="CameraMovments.cs" t="Include" />
+          <e p="EventManager.cs" t="Include" />
+          <e p="Gears.cs" t="Include" />
+          <e p="Manager.cs" t="Include" />
+          <e p="MiniMap" t="Include">
+            <e p="MiniMapCameraBeh.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CanvasMain.cs" t="Include" />
+            <e p="IgnoreMouseOver.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Player" t="Include">
+          <e p="Items_Inventory" t="Include">
+            <e p="Inventory.cs" t="Include" />
+            <e p="InventoryUI" t="Include">
+              <e p="ButtonItemWorld.cs" t="Include" />
+              <e p="Inventory_UI.cs" t="Include" />
+              <e p="Item_World.cs" t="Include" />
+              <e p="ItemEquipment_Slot.cs" t="Include" />
+              <e p="ItemOnUI" t="Include">
+                <e p="ItemEquipmentOnUI.cs" t="Include" />
+                <e p="ItemUI.cs" t="Include" />
+                <e p="UseableItems_OnUI.cs" t="Include" />
+              </e>
+              <e p="SlotScript.cs" t="Include" />
+              <e p="UIStates" t="Include">
+                <e p="DragItemsUI_State.cs" t="Include" />
+                <e p="UseItemsState.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Item.cs" t="Include" />
+            <e p="Item_Equipment.cs" t="Include" />
+            <e p="Items_Data.cs" t="Include" />
+            <e p="Items_Modifers" t="Include">
+              <e p="Item_Modifer_RNG.cs" t="Include" />
+              <e p="Item_Modifier.cs" t="Include" />
+              <e p="ItemsMod" t="Include">
+                <e p="Item_Modifier_IncMaxLIfe.cs" t="Include" />
+                <e p="Item_Modifier_RNG_AddDmg.cs" t="Include" />
+                <e p="Item_modifier_RNG_DamageConversion.cs" t="Include" />
+                <e p="Item_Modifier_RNG_Res.cs" t="Include" />
+              </e>
+              <e p="Unique_Mods" t="Include">
+                <e p="Item_Modifier_StunImmunity.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ItemsTypes" t="Include">
+              <e p="Item_Amulet.cs" t="Include" />
+              <e p="Item_Belt.cs" t="Include" />
+              <e p="Item_Boots.cs" t="Include" />
+              <e p="Item_Chest.cs" t="Include" />
+              <e p="Item_Gloves.cs" t="Include" />
+              <e p="Item_Helmet.cs" t="Include" />
+              <e p="Item_Ring.cs" t="Include" />
+              <e p="Useable_Items" t="Include">
+                <e p="Item_Useable.cs" t="Include" />
+                <e p="Reforge_Useable_Item.cs" t="Include" />
+                <e p="UpgradeToMagicItem_UseableItem.cs" t="Include" />
+                <e p="UpgradeToRareItem_UseableItem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Player.cs" t="Include" />
+          <e p="Player_State" t="Include">
+            <e p="Player_movments.cs" t="Include" />
+            <e p="Player_Targeting.cs" t="Include" />
+          </e>
+          <e p="PlayerActionManager" t="Include">
+            <e p="PlayerActionManager.cs" t="Include" />
+          </e>
+          <e p="SkillTree" t="Include">
+            <e p="LinesPoints.cs" t="Include" />
+            <e p="PassivePoint.cs" t="Include" />
+            <e p="PassivPointsEffects" t="Include">
+              <e p="DamageTakenAsPoint.cs" t="Include" />
+              <e p="IncreasedMaximumLifePoint.cs" t="Include" />
+              <e p="StartPoint.cs" t="Include" />
+            </e>
+            <e p="SkillTree.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StateMachine" t="Include">
+          <e p="OtherStateMachine" t="Include">
+            <e p="ModifierMachine.cs" t="Include" />
+            <e p="MultiStateMachine" t="Include">
+              <e p="MultiStateMachine.cs" t="Include" />
+              <e p="State_Multi.cs" t="Include" />
+              <e p="State_Multi_Modifier.cs" t="Include" />
+            </e>
+          </e>
+          <e p="State.cs" t="Include" />
+          <e p="StateMachine.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Tools" t="Include">
+          <e p="DontDestroyOnLoad.cs" t="Include" />
+          <e p="LineUI.cs" t="Include" />
+          <e p="MathParabola.cs" t="Include" />
+          <e p="Padding.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Hack'N'Slash2.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

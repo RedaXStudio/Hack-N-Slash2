@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e2271b5-416c-4fa9-a43b-cdfff7c1b6b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/OtherStateMachine/MultiStateMachine/MultiStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Boots.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/StatsHolder/TrueStatsHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/StatsHolder/StatsHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.3f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/SetPropertyUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/OtherStateMachine/ModifierMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/LineUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/MathParabola.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/AttacksBehState/BaseAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/Padding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/WhenHitModifiers/WhenHitModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Item_Equipment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/Item_Useable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ButtonItemWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/Enemies/BaseEnemie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/OnKillModifiers/OnKillModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Helmet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/UIStates/UseItemsState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Chest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/UnitsStates/CrowdControls/Hard_CC/StunnedState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/Enemies/Enemies.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/CameraMovments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/UnitsStates/CrowdControls/Hard_CC/CC_RootState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/UpgradeToMagicItem_UseableItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/Gears.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/UIStates/DragItemsUI_State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/Units.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units_Modifiers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/DamageTakenModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/DeathsRattleModifier/GiveXpOnDeath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Damage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Player_State/Player_movments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/DamagesResistance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/DamageTakenAs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/PlayerActionManager/PlayerActionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/Area/Area.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/DeathsRattleModifier/LootOnDeath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/CombatSystemeData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.3f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/SkillTree/PassivPointsEffects/StartPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifer_RNG.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/DontDestroyOnLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/SkillTree/PassivPointsEffects/IncreasedMaximumLifePoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemOnUI/ItemUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50FE65A4-93A0-4952-84F1-E3562EFBE38D/f5/f4923727/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/SkillTree/PassivPointsEffects/DamageTakenAsPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/AttacksBehState/AttacksBeh_MultiState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/SkillTree/SkillTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/DeathsRattleModifier/DeathsEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/SkillTree/PassivePoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/Item_World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/SkillTree/LinesPoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/SlotScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Ring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/Inventory_UI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_Modifier_RNG_Res.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_modifier_RNG_DamageConversion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemEquipment_Slot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_Modifier_RNG_AddDmg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Unique_Mods/Item_Modifier_StunImmunity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_Modifier_IncMaxLife.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/UnitsMovements/GoToTargetAndAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Amulet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/UnitsTargeting/TargetClosestPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/UpgradeToRareItem_UseableItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Gloves.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/MiniMap/MiniMapCameraBeh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombatSysteme/Units/UnitsTargeting/UnitTargeting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/d0/6bfda732/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/Reforge_Useable_Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemOnUI/UseableItems_OnUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Belt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/OtherStateMachine/MultiStateMachine/State_Multi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gears/UI/CanvasMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Player_State/Player_Targeting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemOnUI/ItemEquipmentOnUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/OtherStateMachine/MultiStateMachine/State_Multi_Modifier.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Belt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Boots.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Chest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Gloves.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Helmet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Item_Ring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/Reforge_Useable_Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/UpgradeToMagicItem_UseableItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/DeathsRattleModifier/DeathsEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/Units/Enemies/BaseEnemie.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/Units/Enemies/Enemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gears/Area/Area.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/DeathsRattleModifier/LootOnDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifier_IncMaxLIfe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifier_IncMaxLife.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/SkillTree/PassivPointsEffects/IncreasedMaximumLifePoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifier_RNG_Res.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_modifier_RNG_DamageConversion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/SkillTree/PassivPointsEffects/DamageTakenAsPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifier_RNG_AddDmg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tools/DontDestroyOnLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gears/CameraMovments.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Player_State/Player_Targeting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemOnUI/UseableItems_OnUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_modifier_RNG_DamageConversion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_Modifier_RNG_Res.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_Modifier_IncMaxLife.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/StatsHolder/TrueStatsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/Units/AttacksBehState/BaseAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/DamagesResistance.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/DamageTakenAs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/Item_World.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemOnUI/ItemUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/ItemsTypes/Useable_Items/UpgradeToRareItem_UseableItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/Item_Modifier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/Inventory_UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Items_Modifers/ItemsMod/Item_Modifier_RNG_AddDmg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/InventoryUI/ItemEquipment_Slot.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/StatsHolder/StatsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/PlayerActionManager/PlayerActionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Items_Inventory/Item_Equipment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gears/UI/CanvasMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/DeathsRattleModifier/GiveXpOnDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gears/Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gears/Gears.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/SkillTree/SkillTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombatSysteme/Units/Units.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/SkillTree/PassivePoint.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eBJWHPo22XxBC1JQrifSrEKdb1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e2271b5-416c-4fa9-a43b-cdfff7c1b6b0" name="Default Changelist" comment="" />
+      <created>1593789082988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593789082988</updated>
+      <workItem from="1593789084882" duration="2292000" />
+      <workItem from="1594033481623" duration="8789000" />
+      <workItem from="1594135630051" duration="9784000" />
+      <workItem from="1594212787930" duration="4956000" />
+      <workItem from="1594311151007" duration="8951000" />
+      <workItem from="1594404152437" duration="5621000" />
+      <workItem from="1594565650245" duration="7703000" />
+      <workItem from="1594662922965" duration="9466000" />
+      <workItem from="1594818120649" duration="12929000" />
+      <workItem from="1594907513513" duration="21353000" />
+      <workItem from="1594994288801" duration="4439000" />
+      <workItem from="1595075851512" duration="12634000" />
+      <workItem from="1595105378417" duration="4696000" />
+      <workItem from="1595164828720" duration="10485000" />
+      <workItem from="1595259703805" duration="5773000" />
+      <workItem from="1595338042334" duration="4167000" />
+      <workItem from="1595413500835" duration="3138000" />
+      <workItem from="1595447505010" duration="3976000" />
+      <workItem from="1595515475864" duration="18015000" />
+      <workItem from="1595602969621" duration="3970000" />
+      <workItem from="1595706990711" duration="6763000" />
+      <workItem from="1595791097070" duration="5083000" />
+      <workItem from="1595852264438" duration="10881000" />
+      <workItem from="1595940041365" duration="2364000" />
+      <workItem from="1595954621268" duration="4412000" />
+      <workItem from="1596027178231" duration="8216000" />
+      <workItem from="1596128655150" duration="3801000" />
+      <workItem from="1596148278005" duration="2032000" />
+      <workItem from="1596189517127" duration="9034000" />
+      <workItem from="1596296251928" duration="6661000" />
+      <workItem from="1596385438671" duration="9800000" />
+      <workItem from="1596457775107" duration="9329000" />
+      <workItem from="1596548486531" duration="10824000" />
+      <workItem from="1596642541679" duration="4240000" />
+      <workItem from="1596725529628" duration="9708000" />
+      <workItem from="1596818421965" duration="13280000" />
+      <workItem from="1596905887973" duration="12822000" />
+      <workItem from="1597009993797" duration="5884000" />
+      <workItem from="1597093360407" duration="6160000" />
+      <workItem from="1597160324371" duration="6666000" />
+      <workItem from="1597255730792" duration="9535000" />
+      <workItem from="1597336937843" duration="5834000" />
+      <workItem from="1599165304094" duration="6539000" />
+      <workItem from="1599335730489" duration="8034000" />
+      <workItem from="1599416460215" duration="11567000" />
+      <workItem from="1599507111905" duration="6961000" />
+      <workItem from="1599597097668" duration="1817000" />
+      <workItem from="1599639457235" duration="9117000" />
+      <workItem from="1599681922791" duration="4477000" />
+      <workItem from="1599770231002" duration="2147000" />
+      <workItem from="1599855706439" duration="4413000" />
+      <workItem from="1599938977660" duration="5424000" />
+      <workItem from="1600023689886" duration="8652000" />
+      <workItem from="1600110718001" duration="6773000" />
+      <workItem from="1600195630455" duration="6266000" />
+      <workItem from="1600269064511" duration="5979000" />
+      <workItem from="1600369000757" duration="5078000" />
+      <workItem from="1600436707443" duration="12859000" />
+      <workItem from="1600630750036" duration="5247000" />
+      <workItem from="1600715117562" duration="7251000" />
+      <workItem from="1600800062843" duration="6254000" />
+      <workItem from="1600886077852" duration="5861000" />
+      <workItem from="1600974777244" duration="7646000" />
+      <workItem from="1601057737142" duration="4631000" />
+      <workItem from="1601197980644" duration="6487000" />
+      <workItem from="1601212613642" duration="508000" />
+      <workItem from="1601213246949" duration="650000" />
+      <workItem from="1601297003782" duration="5852000" />
+      <workItem from="1601489483012" duration="2564000" />
+      <workItem from="1601579005483" duration="1840000" />
+      <workItem from="1601667117490" duration="8661000" />
+      <workItem from="1601714824832" duration="10738000" />
+      <workItem from="1601760787120" duration="4153000" />
+      <workItem from="1601803984072" duration="3287000" />
+      <workItem from="1602014450357" duration="658000" />
+      <workItem from="1602151393823" duration="2251000" />
+      <workItem from="1602243587522" duration="1809000" />
+      <workItem from="1602444644128" duration="4230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601675753035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601675753035" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599646633887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599646633887" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/unity-ui-extensions/Scripts/Primitives/UIPolygon.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/unity-ui-extensions/Scripts/Primitives/UIPolygon.cs" initialLine="38" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
