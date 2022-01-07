@@ -36,8 +36,9 @@ public class CameraMovments : MonoBehaviour
         distanceGround -= Input.mouseScrollDelta.y;
             
         distanceGround = Mathf.Clamp(distanceGround, minDistanceGround, maxDistanceGround);
-            
-        //transform.position = new Vector3(transform.position.x, lastgroundY + distanceGround, transform.position.z); //put in lateUpdate?
+
+
+        transform.position = new Vector3(player.transform.position.x,player.transform.position.y + 19, player.transform.position.z - 14);
 
 
         //this.transform.position = new Vector3(player.transform.position.x+22.71f, player.transform.position.y+36, player.transform.position.z-20.75f);
