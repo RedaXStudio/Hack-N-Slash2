@@ -37,9 +37,11 @@ public class CameraMovments : MonoBehaviour
             
         distanceGround = Mathf.Clamp(distanceGround, minDistanceGround, maxDistanceGround);
             
-        transform.position = new Vector3(transform.position.x, lastgroundY + distanceGround, transform.position.z); //put in lateUpdate?
-        
-        if (Input.GetButton("Jump"))
+        //transform.position = new Vector3(transform.position.x, lastgroundY + distanceGround, transform.position.z); //put in lateUpdate?
+
+
+        //this.transform.position = new Vector3(player.transform.position.x+22.71f, player.transform.position.y+36, player.transform.position.z-20.75f);
+        /*if (Input.GetButton("Jump"))
         {
             transform.position = new Vector3(player.gameObject.transform.position.x, transform.position.y, 
                 player.gameObject.transform.position.z - 25);
@@ -61,6 +63,6 @@ public class CameraMovments : MonoBehaviour
         if (Input.GetButton("S"))
         {
             transform.Translate(Vector3.back * Time.deltaTime * cameraSpeed, Space.World);
-        }
+        }*/
     }
 }
