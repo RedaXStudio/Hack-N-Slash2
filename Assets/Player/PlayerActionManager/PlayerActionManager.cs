@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerActionManager : StateMachine
 {
@@ -29,7 +30,10 @@ public class PlayerActionManager : StateMachine
     public override void Update()
     {
         base.Update();
-
+        if(player == null)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
         if (Input.GetButtonDown("Escape"))
         {
             if (CanvasMain.canvasMain.escapePanel.activeSelf)

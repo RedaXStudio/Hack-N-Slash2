@@ -41,11 +41,11 @@ public class CanvasMain : MonoBehaviour
     
     public TextMeshProUGUI hpText;
 
-    void Awake()
+   void Awake()
     {
         if (canvasMain == null)
         {
-            DontDestroyOnLoad(gameObject);
+           // DontDestroyOnLoad(gameObject);
             canvasMain = this;
         }
         else if (canvasMain != null)

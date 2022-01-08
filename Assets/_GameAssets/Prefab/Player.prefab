@@ -268,6 +268,7 @@ MonoBehaviour:
   inventoryUi: {fileID: 0}
   navMeshAgent: {fileID: 0}
   moving: 0
+  animator: {fileID: 5748349316964768396}
 --- !u!23 &154531920119602472
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -431,6 +432,12 @@ PrefabInstance:
 --- !u!4 &5658192147795535658 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4532250632830336, guid: 60e8218091f83244c9bf9c8c2569a009,
+    type: 3}
+  m_PrefabInstance: {fileID: 5662702351824280234}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &5748349316964768396 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 95640976257318950, guid: 60e8218091f83244c9bf9c8c2569a009,
     type: 3}
   m_PrefabInstance: {fileID: 5662702351824280234}
   m_PrefabAsset: {fileID: 0}

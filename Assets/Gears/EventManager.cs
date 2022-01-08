@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EventManager
 {
@@ -23,6 +24,7 @@ public class EventManager
         if (PlayerOnKill != null)
         {
             PlayerOnKill(id);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
     

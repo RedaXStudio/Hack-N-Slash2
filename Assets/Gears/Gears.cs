@@ -38,7 +38,7 @@ public class Gears : MonoBehaviour
     {
         if (gears == null)
         {
-            DontDestroyOnLoad(gameObject);
+            // DontDestroyOnLoad(gameObject);
             gears = this;
         }
         else if (gears != null)

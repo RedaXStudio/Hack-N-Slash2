@@ -7,7 +7,7 @@ using Assets.Player.Items_Inventory;
 using TMPro;
 using UnityEngine;
 using UnityEngine.AI;
-
+using UnityEngine.SceneManagement;
 public class Player : Units
 {
     [Header("Player settings")]
@@ -24,6 +24,9 @@ public class Player : Units
     public bool moving = false;
 
     //public Rigidbody rigi;
+
+    [SerializeField] private Animator animator;
+    private AnimatorControllerParameter isMoving;
 
     new void Start()
     {
@@ -62,10 +65,12 @@ public class Player : Units
         //rigi = GetComponent<Rigidbody>();
 
         //Test
+         isMoving = animator.GetParameter(1);
     }
     
     new void Update()
     {
+        
         base.Update();
         
         //ex : Find if facing an enemy

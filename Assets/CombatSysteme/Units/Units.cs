@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
+
 public class Units : MultiStateMachine
 {
     [Header("Units Settings")]
@@ -183,7 +184,7 @@ public class Units : MultiStateMachine
         if (currentLife <= 0)
         {
             Debug.Log(gameObject.name + " DEAD");
-
+            
             foreach (var deathsEffect in statsHolder.DeathsEffects)
             {
                 deathsEffect.DeathRattle();
@@ -192,6 +193,7 @@ public class Units : MultiStateMachine
 
             if (killer.GetType() == typeof(Player))
             {
+              
                 Gears.gears.eventManagerMain.PlayerOnKillTrigger(((Player)killer).id);
             }
             else
@@ -200,6 +202,8 @@ public class Units : MultiStateMachine
             }
             
             Destroy(gameObject);
+
+           
         }
     }
 

@@ -47,14 +47,15 @@ public class Player_movments : State_Multi
         {
             player.moving = false;
         }
-        
+        else player.moving = true;
+
         //SetTargetPos();
 
         /*if (player.moving)
         {
             Move();
         }*/
-        
+
         GameObject target = ((UnitTargeting) player.actionsState.stateMultis[player.targetingStateIndex]).target;
         
         if (target)
