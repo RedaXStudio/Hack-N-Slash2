@@ -24,7 +24,7 @@ public class EventManager
         if (PlayerOnKill != null)
         {
             PlayerOnKill(id);
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            
         }
     }
     
