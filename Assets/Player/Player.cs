@@ -96,8 +96,9 @@ public class Player : Units
             }
         }
 
-        if (Input.GetButtonDown("B"))
+        if (Input.GetButtonDown("b"))
         {
+            Debug.Log("dziala");
             if (inventoryUi.activeSelf)
             {
                 inventoryUi.SetActive(false);
