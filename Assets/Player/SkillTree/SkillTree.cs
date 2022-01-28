@@ -152,6 +152,6 @@ public class SkillTree : MonoBehaviour
             lateXp / xpToNextLvl,  CanvasMain.canvasMain.xpBarScaler.transform.transform.localScale.y, 
             CanvasMain.canvasMain.xpBarScaler.transform.transform.localScale.z);
     }
-    
+ 
     #endregion
 }
