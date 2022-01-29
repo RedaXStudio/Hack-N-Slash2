@@ -84,6 +84,7 @@ public class SkillTree : MonoBehaviour
             {
                 var test = _eachPointEffect.GetInvocationList()[i];
 
+
                 test.DynamicInvoke();
             }
         }
@@ -113,6 +114,7 @@ public class SkillTree : MonoBehaviour
 
         if (xp >= xpToNextLvl)
         {
+
             int newXp = xp - xpToNextLvl;
             
             LvlUp();
