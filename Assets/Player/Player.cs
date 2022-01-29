@@ -73,9 +73,7 @@ public class Player : Units
         
         base.Update();
         
-        //ex : Find if facing an enemy
-        /*Vector3 dir = targetStest.transform.position - transform.position;
-        Debug.Log(Vector3.Angle(transform.forward, dir));*/
+      
         
         if (!Mathf.Approximately(mySkillTree.lateXp, mySkillTree.xp))
         {
@@ -117,76 +115,12 @@ public class Player : Units
             mySkillTree.UpdateSkillTreeValues(0, true);
 
             //Damages Test
-            
-            //Damage Taken As Test
-            //DamageTakenAs_Modifiers.Add(new DamageTakenAs(this, "FIRE", "CHAOS", 50));
-            
+          
             Damage[] t = {new Damage(CombatSystemeData.DamageType.FIRE,CombatSystemeData.DamageForm.HIT, 5)};
             
             TakeDamage(t, this, nbrOfDamageConversion);
             
-            //Stun Test
-            /*SetState(new StunnedState(this, navMeshAgent, actionsState, 1, this, this), 
-                actionsState, out actionsState);*/
-            
-            //Root Test
-            /*actionsState.SetStateAtIndex(new CC_RootState(this, navMeshAgent, actionsState.stateMultis[movementModifierIndex], 1, 
-                this, this), movementModifierIndex);*/
-
-            //Items Test
-            /*Item item = new Reforge_Useable_Item(1,1,true,1, 3,null);
-
-            Item_World.CreateItemWorld(item, transform.position);
-
-
-            Item_Helmet helemtTest = (Item_Helmet) Gears.gears.managerMain.helmetBaseList[0].ShallowCopy();
-            
-            helemtTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(helemtTest, transform.position);
-            
-            
-            Item_Chest chestTest = (Item_Chest) Gears.gears.managerMain.chestBaseList[0].ShallowCopy();
-            
-            chestTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(chestTest, transform.position);
-            
-            
-            Item_Gloves glovesTest = (Item_Gloves) Gears.gears.managerMain.gloveBaseList[0].ShallowCopy();
-            
-            glovesTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(glovesTest, transform.position);
-            
-            
-            Item_Boots bootsTEst = (Item_Boots) Gears.gears.managerMain.bootsBaseList[0].ShallowCopy();
-            
-            bootsTEst.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(bootsTEst, transform.position);
-            
-            
-            Item_Belt beltTest = (Item_Belt) Gears.gears.managerMain.beltBaseList[0].ShallowCopy();
-            
-            beltTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(beltTest, transform.position);
-            
-            
-            Item_Amulet amuletTest = (Item_Amulet) Gears.gears.managerMain.amuletBaseList[0].ShallowCopy();
-            
-            amuletTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(amuletTest, transform.position);
-            
-            
-            Item_Ring ringTest = (Item_Ring) Gears.gears.managerMain.ringBaseList[0].ShallowCopy();
-            
-            ringTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(ringTest, transform.position);
-            Item_World.CreateItemWorld(ringTest, transform.position);*/
+          
 
             //Scenes Test
             Gears.gears.managerMain.SetAndLoadCurrentArea(Gears.gears.managerMain.areas[0]);
@@ -194,12 +128,7 @@ public class Player : Units
 
         if (Input.GetButtonDown("E"))
         {
-            //Test2
-            /*Item_Helmet helemtTest = (Item_Helmet) Gears.gears.managerMain.helmetBaseList[0].ShallowCopy();
-            
-            helemtTest.UpgradeToRareItem();
-
-            Item_World.CreateItemWorld(helemtTest, transform.position);*/
+           
         }
     }
 
