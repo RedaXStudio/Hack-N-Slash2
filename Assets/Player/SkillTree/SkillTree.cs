@@ -89,6 +89,7 @@ public class SkillTree : MonoBehaviour
         }
     }
 
+
     public void Switch_Remove_Spend_Points()
     {
         if (_removePointMode)
@@ -124,6 +125,7 @@ public class SkillTree : MonoBehaviour
     public void LvlUp()
     {
         //TODO
+
         lvl++;
         player.unitLvl++;
 
